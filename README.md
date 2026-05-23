@@ -1,6 +1,6 @@
-## (Nombre del proyecto)
+## Manolo y la abuela mecánica
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Proyecto de Creación Multimedia Interactiva de la Facultad de Comunicación y Documentación de la Univesidad de Granada
 
 
 
