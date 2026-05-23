@@ -43,8 +43,6 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Comunicación y D
 - Arcweave: https://arcweave.com/app/project/POlqGBA6az/play?entrypoint=play_btn
 
 
-![girl](WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
