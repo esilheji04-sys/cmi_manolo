@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Comunicación y D
 
 **Titulo** : Manolo y la abuela mecánica
 
-**Web:**   https://github.com/esilheji04-sys/Manolo_abuela
+**Web:**   https://esilheji04-sys.itch.io/cmi-manolo
 
 **Autor:**  Daniel López Pérez,  Rocío Sánchez Gómez, Silvia Herrera Jiménez, Claudia Valenzuela Pérez
 
